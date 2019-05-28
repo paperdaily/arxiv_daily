@@ -3,7 +3,7 @@ update arxiv papers every weekday, include cs.CV, cs.AI, cs.LG, cs.CL
 
 ### 关注微信公众号，每日更新
 
-
+![image](https://github.com/paperdaily/arxiv_daily/blob/master/images/%E5%85%AC%E5%85%B1%E5%8F%B7.PNG)
 
 
  
